@@ -7,6 +7,11 @@ public class Main {
         for (int j = 0; j < 10; j++) {
             System.out.println(10);
             System.out.println("biusdk");
+            System.out.println("biusdk");
+            System.out.println("biusdk");
+            System.out.println("biusdk");
+            System.out.println("biusdk");
+            System.out.println("biusdk");
         }
     }
 }
