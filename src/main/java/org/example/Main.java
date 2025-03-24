@@ -12,6 +12,7 @@ public class Main {
        
 
 
+
             List<Object> sdfs = List.of("sdfs", 'd', "fwefwwe", 1, 23, 432l);
             System.out.println(sdfs);
             new Check11().a();
