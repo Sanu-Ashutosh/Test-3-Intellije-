@@ -6,7 +6,7 @@ public class Check11 {
        Calendar c = Calendar.getInstance(); 
         System.out.println("The Current Date is:" + c.getTime()); 
         return 1;
-    }
+    } 
 
    
 }
