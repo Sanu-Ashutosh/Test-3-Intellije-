@@ -49,7 +49,8 @@ public class Main {
         List<Product> products = Arrays.asList(
                 new Product(101, "Laptop", 1200.99),
                 new Product(102, "Smartphone", 899.49),
-                new Product(103, "Headphones", 199.99)
+                new Product(103, "Headphones", 199.99),
+            new Product(104, "Mouse", 67689789798.99)
         );
 
         // Sorting based on Comparable (Price)
@@ -60,7 +61,7 @@ public class Main {
             Collections.sort(products,(p1,p2)->p1.name.compareTo(p2.name));
             System.out.println(p);
         }
-
+        System.out.println(products);
         ArrayList<Integer> arrayList =new ArrayList<>();
 
         File file = new File("fjjhkhbkbk");
